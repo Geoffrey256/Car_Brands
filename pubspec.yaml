@@ -19,6 +19,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cloud_firestore: ^4.4.5
+  firebase_core: ^2.8.0
+  uganda_mobile_money: ^0.0.4
 
 dev_dependencies:
   flutter_test:

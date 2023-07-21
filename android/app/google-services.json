@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975807064362",
+    "project_id": "favorite-cars-8315b",
+    "storage_bucket": "favorite-cars-8315b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975807064362:android:9c5113aa0c34b7ce301653",
+        "android_client_info": {
+          "package_name": "com.favoritecars.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975807064362-qgrgudiv8d3ffhkdjl0r92kd21n6a0ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnfk-umIWX-SjZzs_evbdQwptkUuHsSCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975807064362-qgrgudiv8d3ffhkdjl0r92kd21n6a0ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
